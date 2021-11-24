@@ -15,7 +15,11 @@ body {
     color: yellow;
     padding: .5em 1em;
     display: block;
-}   
+    text-decoration: none;
+}  
+.main-nav a:hover{
+    text-decoration: underline;
+} 
 .push {
     margin-left: auto;
 }
